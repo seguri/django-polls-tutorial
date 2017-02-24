@@ -4,4 +4,4 @@ This is the solution code to the [Django official tutorial](https://github.com/C
 
 I made it as a quick way to clone a working Django app.
 
-The idea is to have a tag for each version of Django but I won't promise I'll actually do it 😛
+The idea is to have a branch for each version of Django but I won't promise I'll actually do it 😛
