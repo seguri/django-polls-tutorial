@@ -16,8 +16,15 @@ The idea is to have a branch for each version of Django but I won't promise I'll
     virtualenv ~/.virtualenv-3.4.5/django-1.10
     . ~/.virtualenv-3.4.5/django-1.10/bin/activate
     pip install django==1.10.5
+    git checkout https://github.com/seguri/django-polls-tutorial
+    cd django-polls-tutorial
+    git checkout -b django-1.10.5
+    python manage.py migrate
+    python manage.py createsuperuser
+    python manage.py runserver
 
 # After
 
     . ~/.virtualenv-3.4.5/django-1.10/bin/activate
+    python manage.py runserver
 
