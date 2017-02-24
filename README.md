@@ -28,3 +28,14 @@ The idea is to have a branch for each version of Django but I won't promise I'll
     . ~/.virtualenv-3.4.5/django-1.10/bin/activate
     python manage.py runserver
 
+# Notes
+
+How I renamed the remote branch, thanks to [SO](http://stackoverflow.com/a/4754132/1521064):
+
+    git checkout https://github.com/seguri/django-polls-tutorial
+    cd django-polls-tutorial
+    git checkout -b django-1.10.5 remotes/origin/django-1.10.5 # This probably isn't neccesary
+    git branch django-1.10 origin/django-1.10.5
+    git push origin --set-upstream django-1.10
+    git push origin :django-1.10.5
+
