@@ -8,4 +8,4 @@ The idea is to have a branch for each version of Django but I won't promise I'll
 
 Working branches:
 
-- [django-1.10.5](../../seguri/django-polls-tutorial/tree/django-1.10.5)
+- [django-1.10.5](../../tree/django-1.10.5)
