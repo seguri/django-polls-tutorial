@@ -18,7 +18,7 @@ The idea is to have a branch for each version of Django but I won't promise I'll
     pip install django==1.10.5
     git checkout https://github.com/seguri/django-polls-tutorial
     cd django-polls-tutorial
-    git checkout -b django-1.10.5
+    git checkout -b django-1.10.5 remotes/origin/django-1.10.5
     python manage.py migrate
     python manage.py createsuperuser
     python manage.py runserver
