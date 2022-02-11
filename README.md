@@ -12,3 +12,4 @@ Working branches:
 - [django-1.11](../../tree/django-1.11): 7/7
 - [django-2.0a1](../../tree/django-2.0a1): 7/7
 - [django-2.1](../../tree/django-2.1): 5/7
+- [django-4.0](../../tree/django-4.0)
