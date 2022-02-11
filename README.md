@@ -11,3 +11,4 @@ Working branches:
 - [django-1.10](../../tree/django-1.10)
 - [django-1.11](../../tree/django-1.11)
 - [django-2.0a1](../../tree/django-2.0a1)
+- [django-2.1](../../tree/django-2.1)
