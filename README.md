@@ -8,7 +8,7 @@ The idea is to have a branch for each version of Django but I won't promise I'll
 
 Working branches:
 
-- [django-1.10](../../tree/django-1.10)
-- [django-1.11](../../tree/django-1.11)
-- [django-2.0a1](../../tree/django-2.0a1)
-- [django-2.1](../../tree/django-2.1)
+- [django-1.10](../../tree/django-1.10): 7/7
+- [django-1.11](../../tree/django-1.11): 7/7
+- [django-2.0a1](../../tree/django-2.0a1): 7/7
+- [django-2.1](../../tree/django-2.1): 5/7
